@@ -1,0 +1,21 @@
+/* Estilos adicionales para la tienda */
+
+body {
+    background-color: #f8f9fa; /* Fondo claro para todo el cuerpo */
+}
+
+/* Ajustar el espacio entre los productos */
+#product-list {
+    margin-top: 30px;
+}
+
+/* Hacer que las imágenes dentro de las tarjetas no se distorsionen */
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+/* Añadir márgenes al footer */
+footer {
+    margin-top: 20px;
+}
